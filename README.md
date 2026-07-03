@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **AI projects, Automation**, and **Workflow Enhancements**
 - 🌱 I’m focusing on **Machine Learning**, **LLMs (Large Language Models)**, **Backend Development**, and **Automation with n8n**
 - 💬 Ask me anything about **AI, ML, Automations, or Backend**
-- 🆕 Currently working in **AI Engineer at Machine Learning 1 Pvt. Limited**
 - 📫 How to reach me: [hamzavelous@gmail.com](mailto:hamzavelous@gmail.com)
 - ⚡ Fun fact: I'm discovering the power of automation one script at a time!
 
