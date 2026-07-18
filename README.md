@@ -246,7 +246,6 @@ IoT · ESP Microcontrollers
 
 </div>
 
-> ℹ️ The snake animation needs a one-time GitHub Action to generate it — see setup note at the bottom.
 
 <br/>
 
