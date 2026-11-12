@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0EA5E9,100:6366F1&height=230&section=header&text=Hamza%20Younas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Automation%20and%20Agentic%20Systems&descAlignY=56&descSize=19" width="100%" alt="Hamza Younas — AI / ML Engineer | Automation and Agentic Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0EA5E9,100:6366F1&height=230&section=header&text=Hamza%20Younas&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Automation%20and%20Agentic%20Systems&descAlignY=56&descSize=19" width="100%" alt="Hamza Younas — AI / ML Engineer | Automation and Agentic Systems"/>
 
 <a href="https://github.com/Hamzaviour">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+AI+%26+ML+Systems;Agentic+Workflows+with+Claude+%2B+MCP;RAG+%7C+LangGraph+%7C+n8n+Automation;Turning+Raw+Data+into+Real+Products" alt="Building AI and ML systems, agentic workflows, RAG and automation"/>
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="60%" alt="Developer at work animation"/>
 
 <br/>
 
@@ -28,7 +30,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<h2>⚡ About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" height="30" alt=""/> About Me</h2>
 
 I turn messy data and manual busywork into **systems that run themselves**. Somewhere between an ML engineer and an automation architect — I train the model, then build the pipeline that actually puts it to work.
 
@@ -36,10 +38,12 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <code>🧠 Model it</code> → <code>⚙️ Automate it</code> → <code>🚀 Ship it</code> → <code>📈 Scale it</code>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Automation pipeline animation"/>
+
 </td>
 <td width="42%" valign="top">
 
-<h3>📌 At a glance</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" height="24" alt=""/> At a glance</h3>
 
 🧑‍💻 **Associate Data Scientist** @ Whizzly Lab<br/>
 🎓 **BS Artificial Intelligence** · UCP · 2023 – 2027<br/>
@@ -51,7 +55,9 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 </tr>
 </table>
 
-## 🔭 What I'm Working On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" height="30" alt=""/> What I'm Working On
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="260" alt="Coding animation"/>
 
 - 💼 **Whizzly Lab** — shipping AI, automation and full-stack products for clients as an Associate Data Scientist
 - 🧠 **ZehenSync (FYP)** — multimodal mental-health screening that reads check-in answers plus blink, gaze and pause signals from a webcam
@@ -60,9 +66,11 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 - 🛡️ **Assayr** — self-hosted GRC platform for ISO/IEC 27001 controls, evidence and risk
 - 💬 Ask me about **LLM agents, RAG, automation workflows, or ML in production**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0EA5E9,100:6366F1&height=3" width="100%" alt=""/>
+<br clear="right"/>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="30" alt=""/> Featured Projects
 
 <table>
 <tr>
@@ -136,16 +144,18 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0EA5E9,100:6366F1&height=3" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="30" alt=""/> Tech Arsenal
 
 <div align="center">
 
-<h4>💻 Languages</h4>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="320" alt="Tech stack animation"/>
+
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="22" alt=""/> Languages</h4>
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,html,css,bash&theme=dark" alt="Python, TypeScript, JavaScript, C++, HTML, CSS, Bash"/>
 
-<h4>🤖 AI / ML & LLMs</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" height="22" alt=""/> AI / ML & LLMs</h4>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, OpenCV"/>
 <br/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
@@ -159,7 +169,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" alt="YOLOv8"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
-<h4>⚙️ Automation & Agents</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" alt=""/> Automation & Agents</h4>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge" alt="MCP"/>
@@ -168,7 +178,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <img src="https://img.shields.io/badge/Omnidimension-6366F1?style=for-the-badge" alt="Omnidimension"/>
 <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail API"/>
 
-<h4>🌐 Frontend</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" height="22" alt=""/> Frontend</h4>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="React, Next.js, Tailwind CSS, Vite, Three.js"/>
 <br/>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
@@ -186,7 +196,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock"/>
 <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Spaces"/>
 
-<h4>📊 Data, Design & Ops</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="22" alt=""/> Data, Design & Ops</h4>
 <img src="https://skillicons.dev/icons?i=figma,latex,arduino&theme=dark" alt="Figma, LaTeX, Arduino"/>
 <br/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -195,9 +205,11 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0EA5E9,100:6366F1&height=3" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" height="30" alt=""/> Experience
+
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Developer at multiple monitors animation"/></div>
 
 <table width="100%">
 <tr><td width="24%" align="right"><b>Jul 2026 – Present</b></td><td width="4%" align="center">🟡</td><td>Associate Data Scientist @ <b>Whizzly Lab</b></td></tr>
@@ -219,7 +231,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 </details>
 
-## 🎓 Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" height="30" alt=""/> Certifications
 
 <table width="100%">
 <tr>
@@ -268,7 +280,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 </tr>
 </table>
 
-## 🤝 Leadership & Volunteering
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="30" alt=""/> Leadership & Volunteering
 
 <div align="center">
 
@@ -280,9 +292,9 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0EA5E9,100:6366F1&height=3" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
 
-## 📊 GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" height="30" alt=""/> GitHub Activity
 
 <div align="center">
 
@@ -297,7 +309,11 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 <div align="center">
 
-## 💬 Let's Connect & Build
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30" alt=""/> Let's Connect & Build
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="380" alt="Developer with headphones animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=620&lines=Have+an+AI+or+automation+idea%3F;Need+an+agent%2C+a+pipeline+or+a+model%3F;Let%27s+build+it+together+%F0%9F%9A%80" alt="Have an AI or automation idea? Let us build it together"/>
 
 <i>Open to freelance & collaboration on AI agents, automation, and full-stack ML products.</i>
 
@@ -306,6 +322,10 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <a href="mailto:hamzavelous@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 <a href="https://www.linkedin.com/in/hamza-younas"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://hamzayounas.netlify.app/"><img src="https://img.shields.io/badge/See_my_portfolio-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="See my portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pac-Man animation"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:0EA5E9,100:00C9FF&height=110&section=footer" width="100%" alt=""/>
 
