@@ -45,11 +45,19 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" height="24" alt=""/> At a glance</h3>
 
-🧑‍💻 **Associate Data Scientist** @ Whizzly Lab<br/>
-🎓 **BS Artificial Intelligence** · UCP · 2023 – 2027<br/>
-🏅 **18 certifications** · Anthropic, Google, Oracle, Huawei<br/>
-📦 **40+ public repositories**<br/>
-🌍 **Remote-ready** · international clients
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" height="20" alt=""/> <b>Associate Data Scientist</b> @ Whizzly Lab<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" height="20" alt=""/> <b>BS Artificial Intelligence</b> · UCP · 2023 – 2027<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="20" alt=""/> <b>FYP:</b> ZehenSync — multimodal mental-health screening<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" height="20" alt=""/> <b>Focus:</b> agentic AI · RAG · workflow automation<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" height="20" alt=""/> <b>5+ years</b> of work experience — operations leadership → AI/ML<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="20" alt=""/> <b>2 AI/ML internships</b> + C++ Teaching Assistant at UCP<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="20" alt=""/> <b>6 live products</b> shipped on Vercel & Hugging Face Spaces<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" height="20" alt=""/> <b>18 certifications</b> · Anthropic, Google, Oracle, Huawei, DeepLearning.AI<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" height="20" alt=""/> <b>40+ public repos</b> · 1,100+ contributions this year<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" height="20" alt=""/> <b>Best Emerging Star</b> · Ops '21 at Healthwire<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="20" alt=""/> <b>Director of Partnerships</b> @ Sawera Foundation<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" height="20" alt=""/> <b>Lahore, PK</b> (UTC+5) · remote-ready for global clients<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" height="20" alt=""/> Speaks <b>English</b> & <b>Urdu</b><br/>
 
 </td>
 </tr>
@@ -203,6 +211,9 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
 <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana"/>
 
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" alt="Developer building web apps animation"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
@@ -308,6 +319,8 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 </div>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel-art developer room animation"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30" alt=""/> Let's Connect & Build
 
