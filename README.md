@@ -50,7 +50,7 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="20" alt=""/> <b>FYP:</b> ZehenSync — multimodal mental-health screening<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" height="20" alt=""/> <b>Focus:</b> agentic AI · RAG · workflow automation<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" height="20" alt=""/> <b>5+ years</b> of work experience — operations leadership → AI/ML<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="20" alt=""/> <b>2 AI/ML internships</b> + C++ Teaching Assistant at UCP<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="20" alt=""/> <b>3+ internships</b> · FlyRank AI, Elevvo Pathways, DevelopersHub & UCP (Python TA)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="20" alt=""/> <b>6 live products</b> shipped on Vercel & Hugging Face Spaces<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" height="20" alt=""/> <b>18 certifications</b> · Anthropic, Google, Oracle, Huawei, DeepLearning.AI<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" height="20" alt=""/> <b>40+ public repos</b> · 1,100+ contributions this year<br/>
@@ -224,8 +224,9 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 
 <table width="100%">
 <tr><td width="24%" align="right"><b>Jul 2026 – Present</b></td><td width="4%" align="center">🟡</td><td>Associate Data Scientist @ <b>Whizzly Lab</b></td></tr>
+<tr><td align="right"><b>Jul – Sep 2026</b></td><td align="center">🟢</td><td>Machine Learning Intern @ <b>FlyRank AI</b> — remote AI internship focused on machine learning</td></tr>
 <tr><td align="right"><b>Aug – Sep 2025</b></td><td align="center">🟢</td><td>ML Engineer Intern @ <b>Elevvo Pathways</b> — supervised learning models, feature engineering, hyperparameter tuning</td></tr>
-<tr><td align="right"><b>Nov 2024 – Feb 2025</b></td><td align="center">🟢</td><td>Teaching Assistant @ <b>University of Central Punjab</b> — C++ labs, grading, mentoring students</td></tr>
+<tr><td align="right"><b>Nov 2024 – Feb 2025</b></td><td align="center">🟢</td><td>Teaching Assistant @ <b>University of Central Punjab</b> — Python labs, grading, mentoring students</td></tr>
 <tr><td align="right"><b>Nov 2024 – Jan 2025</b></td><td align="center">🟢</td><td>AI/ML Intern @ <b>DevelopersHub</b> — model design, preprocessing, results visualization</td></tr>
 </table>
 
@@ -319,8 +320,6 @@ I turn messy data and manual busywork into **systems that run themselves**. Some
 </div>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel-art developer room animation"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30" alt=""/> Let's Connect & Build
 
